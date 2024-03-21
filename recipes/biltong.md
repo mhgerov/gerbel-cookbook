@@ -5,7 +5,7 @@ parent: Recipes
 ---
 # BILTONG
 
-![Recipe Photo](/assets/img/biltong.jpg)
+![Recipe Photo]({{ site.baseurl }}/assets/img/biltong.jpg)
 
 ## Ingredients
 
