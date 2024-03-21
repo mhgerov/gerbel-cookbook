@@ -29,4 +29,4 @@ parent: Recipes
 
 ## References
 
-[Image scan of original recipe](/assets/img/salmon-with-tequila-cream-sauce-scan.jpg)
+[Image scan of original recipe]({{ site.baseurl }}/assets/img/salmon-with-tequila-cream-sauce-scan.jpg)

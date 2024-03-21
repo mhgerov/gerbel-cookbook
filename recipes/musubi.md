@@ -5,7 +5,7 @@ parent: Recipes
 ---
 # MUSUBI
 
-![Recipe Photo](/assets/img/musubi.jpeg)
+![Recipe Photo]({{ site.baseurl }}/assets/img/musubi.jpeg)
 
 ## Ingredients
 
