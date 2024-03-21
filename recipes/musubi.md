@@ -5,7 +5,7 @@ parent: Recipes
 ---
 # MUSUBI
 
-![Recipe Photo](/recipes/img/musubi.jpeg)
+![Recipe Photo](/assets/img/musubi.jpeg)
 
 ## Ingredients
 
