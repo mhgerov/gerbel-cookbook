@@ -21,7 +21,7 @@ parent: Recipes
 - [ ] 4 oz sugar
 
 ### Eggs
-- [ ] 6 medium eggs
+- [ ] 9 medium eggs
 - [ ] 2 oz milk
 - [ ] cooking spray
 
