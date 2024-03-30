@@ -3,7 +3,7 @@ title: Musubi
 layout: default
 parent: Recipes
 ---
-# MUSUBI
+# Musubi
 
 ![Recipe Photo]({{ site.baseurl }}/assets/img/musubi.jpeg)
 
